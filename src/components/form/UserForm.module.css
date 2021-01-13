@@ -1,0 +1,38 @@
+.inputWrapper{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.formButton {
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+}
+
+.inputForm{
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  outline:none;
+  border-width: 1px;
+}
+
+.inputForm:focus{
+  border-color: blue;
+}
+
+.Textarea{
+  width: 300px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.SelectLabel{
+  margin-right: 10px;
+}

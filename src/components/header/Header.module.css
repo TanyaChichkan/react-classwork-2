@@ -1,0 +1,19 @@
+.PageHeader{
+  display: flex;
+
+}
+
+.NavList{
+  list-style: none;
+  display: flex;
+}
+
+.NavListItem:not(:last-child) {
+  margin-right: 15px;
+}
+
+.PageNav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
